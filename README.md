@@ -1,7 +1,7 @@
 # Muslim Website
 
 This is an Islamic website project developed using ReactJS. It is a responsive website that can be used on all devices.
-The website serves as a comprehensive online Muslim resource like (Holy Quran, Hijri Calendar, and Adhkar)
+The website serves as a comprehensive online Muslim resource like (Holy Quran, Hijri Calendar, and Adhkar and program)
 
 ## Getting Started
 
